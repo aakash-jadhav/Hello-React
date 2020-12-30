@@ -1,0 +1,19 @@
+.tweet{
+  
+  height:300px;
+  width: 250px;
+  background: white;
+  border-radius: 10px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.app{
+  min-height:100vh;
+  background:#50ABF1;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
